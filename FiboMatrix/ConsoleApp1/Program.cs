@@ -4,7 +4,7 @@ class Program
 {
     public static void Main()
     {
-        Console.WriteLine(Solution.FibonacciMatrixPow(6));
+        Console.WriteLine(Solution.FibonacciMatrixPow(5));
     }
 }
 
@@ -13,6 +13,7 @@ public class Solution
 {
     public static int FibonacciMatrixPow(int p)
     {
+        p--;
         int[,] x = new int[2, 2] 
         {
             {1, 1},
