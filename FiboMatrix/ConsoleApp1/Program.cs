@@ -13,6 +13,9 @@ public class Solution
 {
     public static int FibonacciMatrixPow(int p)
     {
+        if (p <= 0)
+            return -1;
+
         p--;
         int[,] x = new int[2, 2] 
         {
