@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiboMatrixTest", "FiboMatrixTest\FiboMatrixTest.csproj", "{D3651CF7-25D4-4586-9420-80A8A7745C12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopologicalSort", "..\TopologicalSort\TopologicalSort.csproj", "{39820A94-BF84-42EF-8226-DF1E57D6C8DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{D3651CF7-25D4-4586-9420-80A8A7745C12}.Release|x64.Build.0 = Release|Any CPU
 		{D3651CF7-25D4-4586-9420-80A8A7745C12}.Release|x86.ActiveCfg = Release|Any CPU
 		{D3651CF7-25D4-4586-9420-80A8A7745C12}.Release|x86.Build.0 = Release|Any CPU
+		{39820A94-BF84-42EF-8226-DF1E57D6C8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39820A94-BF84-42EF-8226-DF1E57D6C8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39820A94-BF84-42EF-8226-DF1E57D6C8DE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{39820A94-BF84-42EF-8226-DF1E57D6C8DE}.Debug|x64.Build.0 = Debug|Any CPU
+		{39820A94-BF84-42EF-8226-DF1E57D6C8DE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{39820A94-BF84-42EF-8226-DF1E57D6C8DE}.Debug|x86.Build.0 = Debug|Any CPU
+		{39820A94-BF84-42EF-8226-DF1E57D6C8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39820A94-BF84-42EF-8226-DF1E57D6C8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39820A94-BF84-42EF-8226-DF1E57D6C8DE}.Release|x64.ActiveCfg = Release|Any CPU
+		{39820A94-BF84-42EF-8226-DF1E57D6C8DE}.Release|x64.Build.0 = Release|Any CPU
+		{39820A94-BF84-42EF-8226-DF1E57D6C8DE}.Release|x86.ActiveCfg = Release|Any CPU
+		{39820A94-BF84-42EF-8226-DF1E57D6C8DE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
