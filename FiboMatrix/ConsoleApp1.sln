@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiboMatrixTest", "FiboMatri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopologicalSort", "..\TopologicalSort\TopologicalSort.csproj", "{39820A94-BF84-42EF-8226-DF1E57D6C8DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeHomework", "..\TreeHomework\TreeHomework.csproj", "{B8052EFC-B7F6-4793-B289-222AEC801421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BST", "..\BST\BST.csproj", "{B9D7CCF1-DB99-4E7D-9251-163ABAA752A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +59,30 @@ Global
 		{39820A94-BF84-42EF-8226-DF1E57D6C8DE}.Release|x64.Build.0 = Release|Any CPU
 		{39820A94-BF84-42EF-8226-DF1E57D6C8DE}.Release|x86.ActiveCfg = Release|Any CPU
 		{39820A94-BF84-42EF-8226-DF1E57D6C8DE}.Release|x86.Build.0 = Release|Any CPU
+		{B8052EFC-B7F6-4793-B289-222AEC801421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8052EFC-B7F6-4793-B289-222AEC801421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8052EFC-B7F6-4793-B289-222AEC801421}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B8052EFC-B7F6-4793-B289-222AEC801421}.Debug|x64.Build.0 = Debug|Any CPU
+		{B8052EFC-B7F6-4793-B289-222AEC801421}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B8052EFC-B7F6-4793-B289-222AEC801421}.Debug|x86.Build.0 = Debug|Any CPU
+		{B8052EFC-B7F6-4793-B289-222AEC801421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8052EFC-B7F6-4793-B289-222AEC801421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8052EFC-B7F6-4793-B289-222AEC801421}.Release|x64.ActiveCfg = Release|Any CPU
+		{B8052EFC-B7F6-4793-B289-222AEC801421}.Release|x64.Build.0 = Release|Any CPU
+		{B8052EFC-B7F6-4793-B289-222AEC801421}.Release|x86.ActiveCfg = Release|Any CPU
+		{B8052EFC-B7F6-4793-B289-222AEC801421}.Release|x86.Build.0 = Release|Any CPU
+		{B9D7CCF1-DB99-4E7D-9251-163ABAA752A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D7CCF1-DB99-4E7D-9251-163ABAA752A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D7CCF1-DB99-4E7D-9251-163ABAA752A5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B9D7CCF1-DB99-4E7D-9251-163ABAA752A5}.Debug|x64.Build.0 = Debug|Any CPU
+		{B9D7CCF1-DB99-4E7D-9251-163ABAA752A5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B9D7CCF1-DB99-4E7D-9251-163ABAA752A5}.Debug|x86.Build.0 = Debug|Any CPU
+		{B9D7CCF1-DB99-4E7D-9251-163ABAA752A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D7CCF1-DB99-4E7D-9251-163ABAA752A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9D7CCF1-DB99-4E7D-9251-163ABAA752A5}.Release|x64.ActiveCfg = Release|Any CPU
+		{B9D7CCF1-DB99-4E7D-9251-163ABAA752A5}.Release|x64.Build.0 = Release|Any CPU
+		{B9D7CCF1-DB99-4E7D-9251-163ABAA752A5}.Release|x86.ActiveCfg = Release|Any CPU
+		{B9D7CCF1-DB99-4E7D-9251-163ABAA752A5}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
